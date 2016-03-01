@@ -1,0 +1,10 @@
+#chartArea {
+  width: 306px;
+  height: 300px;
+  background-color: #DDD;
+}
+
+.bar {
+  display: inline-block;
+  fill: #00ACF5;
+}
