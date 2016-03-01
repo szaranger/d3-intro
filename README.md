@@ -1,6 +1,6 @@
 # Introduction to D3
 
-This project serves as the codebase for the blog post [walkthrough](http://http://seanamarasinghe.com/developer/introduction-to-d3/).
+This project serves as the codebase for the blog post [walkthrough](http://seanamarasinghe.com/developer/introduction-to-d3/).
 Follow the post for a more thorough explanation of the code.
 
 ## Stack
