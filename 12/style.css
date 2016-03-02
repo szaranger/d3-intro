@@ -1,0 +1,18 @@
+#chartArea {
+  width: 500px;
+  height: 400px;
+  background-color: #DDD;
+}
+
+.dot {
+  fill: #00ACF5;
+  fill-opacity: 0.7;
+  stroke: black;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
